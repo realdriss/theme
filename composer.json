@@ -7,6 +7,12 @@
             "RealDriss\\Theme\\": "src"
         }
     },
+    "authors": [
+        {
+            "name": "Godwin Waswa",
+            "email": "godwnwaswa@gmail.com"
+        }
+    ],
     "require": {
         "realdriss/platform": "*@dev",
         "realdriss/sitemap": "*@dev",
